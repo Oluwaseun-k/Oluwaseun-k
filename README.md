@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluwaseun Kolawole 
 - 👀 I’m interested in Data analysis 
 - 🌱 I’m currently learning python for data analysis
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Data anslytics
 - 📫 How to reach me oluwaseunkolawole2017@gmail.com 
 
 <!---
